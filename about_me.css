@@ -1,0 +1,63 @@
+h1{
+  text-align: center;
+  font-size: 45px;
+}
+
+body{
+  background-image: url(https://www.sli-praha.cz/wp-content/uploads/2015/07/Yellow-blur-background1.jpg);
+  background-size: auto;
+  }
+
+ img[src*="drive.google.com/uc?export=view&id=1ZRFNArV3nqm9dulk8aSQfWRHW8-YPQQ8"]{
+    width: 243px;
+    height: 300px;
+    border: 7px solid black;
+    margin: 0px 30px 20px 50px;
+  }
+
+  #info{
+    width: 250px;
+    border: 5px dashed black;
+    margin: -242px 30px 70px 350px;
+    text-align: center;
+  }
+
+img[src*="drive.google.com/uc?export=view&id=1X99vbzklLHuO_vIyKIc2JikxEKuu9tUU"]{
+  width: 264px;
+  height: 200px;
+  border: 7px solid black;
+  margin: -40px 0px 0px 650px;
+}
+ 
+ img[src*="drive.google.com/uc?export=view&id=1-r33vzO9VJ1z6ONkuSmElzKrsy3ZDrlH"]{
+   width:228px;
+   height: 200px;
+   border: 7px solid black;
+   margin: -219px 100px 300px 360px;
+ }
+
+ #other{
+   width: 250px;
+    border: 5px dashed black;
+    margin: -782px -25px 70px 657px;
+    text-align: center;
+ }
+
+ #reasons{
+   width: 250px;
+    border: 5px dashed black;
+    text-align: center;
+    margin: -272px -400px 100px 957px
+ }
+
+ #lefty{
+   margin: -390px 30px 70px 430px;
+ }
+
+ #middle{
+   margin: -100px 150px 200px 720px
+ }
+
+ #righty{
+   margin: -230px 150px 200px 1050px
+ }

@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  font-size: 4em;
+  font-family: "Amaranth", sans-serif;
+  border: 5px dashed rgb(0, 0, 0);
+  background: lightcyan;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+body{
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+  background-size: cover;
+}
+
+table{
+  border: 10px solid black;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  width: 800px;
+  background-color: white;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+}
+
+h2{
+  text-align: center;
+  font-size: 2em;
+}
